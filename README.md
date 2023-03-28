@@ -23,13 +23,13 @@
 <table>
     <thead>
         <tr>
-            <td align="center"><strong>🚀Frontend</strong></td>
-            <td align="center"><strong>⚒️Backend</strong></td>
-            <td align="center"><strong>📱Movil</strong></td>
-            <td align="center"><strong>🎮Gaming</strong></td>
-            <td align="center"><strong>🎨Design</strong></td>
-            <td align="center"><strong>🤖AI/ML</strong></td>
-            <td align="center"><strong>💾Database</strong></td>
+            <td align="center"><strong>Frontend</strong></td>
+            <td align="center"><strong>Backend</strong></td>
+            <td align="center"><strong>Movil</strong></td>
+            <td align="center"><strong>Gaming</strong></td>
+            <td align="center"><strong>Design</strong></td>
+            <td align="center"><strong>AI/ML</strong></td>
+            <td align="center"><strong>Database</strong></td>
             <td align="center"><strong>Others</strong></td><!--Devops & Testing -->
         </tr>
     </thead>
