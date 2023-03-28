@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack & Movil developer</h3>
 
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertolicea00" alt="albertolicea00" /></a>
+    <img src="https://github-profile-trophy.vercel.app/?username=albertolicea00" alt="albertolicea00" />
 </p>
 
 - 🔭 I’m currently working on [Wateke Tech](https://wateke.travel)
