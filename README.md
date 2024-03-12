@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=albertolicea00" alt="albertolicea00" />
 </p>
 
-- 🔭 I’m currently working on [Wateke Tech](https://wateke.travel)
+- 🔭 I’m currently working on [LADETEC](https://www.ladetec.com/)
 
 - 🌱 I’m currently learning **Machine Learning** and **IA**
 
