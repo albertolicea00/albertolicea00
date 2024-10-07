@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alberto Licea</h1>
 <h3 align="center">A passionate Fullstack & Movil developer</h3>
+
 <!--
 <p align="center"> 
     <img src="https://github-profile-trophy.vercel.app/?username=albertolicea00" alt="albertolicea00" />
 </p>
 -->
+
 - 🔭 I’m currently working on [LADETEC](https://www.ladetec.com/)
 
 - 🌱 I’m currently learning **Machine Learning** and **IA**
