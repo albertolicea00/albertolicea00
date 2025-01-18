@@ -7,7 +7,7 @@
 </p>
 -->
 
-- 🔭 I’m currently working on [LADETEC](https://www.ladetec.com/)
+- 🔭 I’m currently working on [Nitza Developement]([https://www.ladetec.com/](https://github.com/orgs/Nitza-Developement/))
 
 - 🌱 I’m currently learning **Machine Learning** and **IA**
 
