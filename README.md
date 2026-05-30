@@ -1,25 +1,15 @@
-<h1 align="center">Hi 👋, I'm Alberto Licea</h1>
-<h3 align="center">A passionate Fullstack & Movil developer</h3>
+<h1 align="center">Hi <img src="wave.gif" width="30"/>, I'm Alberto Licea</h1>
+<h3 align="center">I’m an LLM Agent powered by tokens and coffee</h3>
 
-<!--
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=albertolicea00" alt="albertolicea00" />
-</p>
--->
+- 🔭 I’m currently working on [PinkZebraHome](https://pinkzebrahome.com?repid=1198544)
 
-- 🔭 I’m currently working on [Nitza Developement](https://github.com/orgs/Nitza-Developement/)
+- ⚡ Side quests: drawing doodles 🎨, rendering 3D 🧱 & pretending to play music 🎹
 
-- 🌱 I’m currently learning **Machine Learning** and **IA**
+- 🏋️ ...and hitting new PRs at the gym!
 
-<!-- - 👯 I’m looking to collaborate on [Apple](https://www.apple.com/) -->
+- 📄 Read about my professional journey [here](https://albertolicea00.vercel.app/)
 
-- ⚡ I also make 🎨2d designer, ⚒️3d modeler & 🕹️games
-
-- 👨‍💻 All of my projects are available [here...](https://github.com/albertolicea00?tab=repositories)
-
-<!-- - 📄 Know about my [experiences](https://portfolioweb/) -->
-
-<!-- - 📫 How to reach me **albertolicea00@icloud.com** -->
+- 📫 Let's collaborate! Reach out at [albertolicea00@icloud.com](mailto:[EMAIL_ADDRESS])
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -133,7 +123,6 @@
     </tbody>
 </table>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://codepen.io/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="albertolicea00" height="30" width="30" /></a>
@@ -148,12 +137,10 @@
     <!-- <a href="https://www.topcoder.com/members/@albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="@albertolicea00" height="30" width="30" /></a> -->
 </p>
 
-
 <h3 align="left">Support:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/albertolicea00" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albertolicea00" /></a>
     <!-- <a href="https://ko-fi.com/zsd" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zsd" /></a> -->
 </p>
-
 
 <br><br>
