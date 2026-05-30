@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="wave.gif" width="30"/>, I'm Alberto Licea</h1>
-<h3 align="center">I’m an LLM Agent powered by tokens and coffee</h3>
+<h3 align="center">
+    <img src="https://github.githubassets.com/assets/pixel-mona-heart-1ad96c11d4de.gif" width="30px">
+    I’m an LLM Agent powered by tokens and coffee
+    <img src="https://github.githubassets.com/images/mona-whisper.gif" width="30px">
+</h3>
 
 - 🔭 I’m currently working on [PinkZebraHome](https://pinkzebrahome.com?repid=1198544)
 
@@ -11,7 +15,7 @@
 
 - 📫 Let's collaborate! Reach out at [albertolicea00@icloud.com](mailto:[EMAIL_ADDRESS])
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h3>
 <table>
     <thead>
         <tr>
@@ -123,24 +127,33 @@
     </tbody>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="albertolicea00" height="30" width="30" /></a>
-    <a href="https://dev.to/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="albertolicea00" height="30" width="30" /></a>
-    <a href="https://stackoverflow.com/users/19670637" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19670637" height="30" width="30" /></a>
-    <a href="https://hashnode.com/@albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@albertolicea00" height="30" width="30" /></a>
-    <a href="https://www.codechef.com/users/albertolicea00" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="albertolicea00" height="30" width="30" /></a>
-    <a href="https://www.hackerrank.com/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="albertolicea00" height="30" width="30" /></a>
-    <a href="https://www.leetcode.com/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albertolicea00" height="30" width="30" /></a>
-    <a href="https://www.hackerearth.com/@albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@albertolicea00" height="30" width="30" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="albertolicea00" height="30" width="30" /></a>
-    <!-- <a href="https://www.topcoder.com/members/@albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="@albertolicea00" height="30" width="30" /></a> -->
+    <a href="https://stackoverflow.com/users/19670637" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19670637" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://x.com/albertolicea00" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;
+    <!-- <a href="https://codepen.io/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://dev.to/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://hashnode.com/@albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://www.codechef.com/users/albertolicea00" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://www.hackerrank.com/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://www.leetcode.com/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://www.hackerearth.com/@albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://auth.geeksforgeeks.org/user/albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
+    <!-- <a href="https://www.topcoder.com/members/@albertolicea00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="@albertolicea00" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp; -->
 </p>
 
-<h3 align="left">Support:</h3>
+<h2 align="left">Support:</h3>
+
+[Sponsor me on GitHub](https://github.com/sponsors/albertolicea00) 🥺👉🏻👈🏻
+
+
 <p>
     <a href="https://www.buymeacoffee.com/albertolicea00" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albertolicea00" /></a>
     <!-- <a href="https://ko-fi.com/zsd" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zsd" /></a> -->
 </p>
 
-<br><br>
+
+
+<br>
