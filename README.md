@@ -55,7 +55,7 @@ const albertolicea00 = {
 <p>
     <a href="https://www.buymeacoffee.com/albertolicea00" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="albertolicea00" /></a>
     <!-- <a href="https://ko-fi.com/zsd" target="_blank"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zsd" /></a> -->
-    <img align="right" src="fds.svg" style="height: 69px; margin-top: -1.8em;" alt="fds" />
+    <img align="right" src="fds.svg" height="54" alt="fds" />
 </p>
 
 <br>
